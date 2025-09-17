@@ -1,2 +1,5 @@
 # css_overflow_x_y_z
-overflox for body,html
+----------------------------------------------------------------------------------------------------------------------------------------------
+- /** overflow-x **/ locks user's view port and prevents sideways scrolling on x-axis
+- /** overflow-y **/ locks user's view port and prevent vertical scrolling on y-axis
+- ofy set__to_log*in 
